@@ -9,5 +9,8 @@ private:
 public:
 	float Luas;
 
+	void input() {
+
+	}
 };
 
