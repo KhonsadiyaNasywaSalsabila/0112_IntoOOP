@@ -30,3 +30,8 @@ public:
 	}
 };
 
+int main() {
+	bangunDatar pp;
+
+}
+
